@@ -52,4 +52,6 @@ class CompanyAgent(mesa.Agent):
         self.history.append({
             "step": self.model.schedule.steps,
             "cash": self.cash, "share": self.market_share,
-            "
+            "price": self.price, "quality": self.quality,
+            "alive": self.alive,
+        })
