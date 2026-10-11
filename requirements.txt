@@ -1,0 +1,10 @@
+mesa==2.3.0
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+pydantic==2.7.0
+pandas==2.2.2
+numpy==1.26.4
+plotly==5.20.0
+streamlit==1.33.0
+pytest==8.1.1
+requests==2.31.0
